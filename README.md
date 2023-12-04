@@ -2,10 +2,25 @@
 A list of java interview questions. This repository is everything you need to prepare for your technical interview.
 
 ## Table of Contents
+* 40+ Spring & Spring Boot Annotations Everyone Should Know - Java Techie
 * Spring Boot Best Practices For Developers - Java Techie
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
 * Java Collection Interview Questions & Answers - Java Techie
 * Spring Boot Interview Mastery Part 1 - Java Techie
+
+## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
+| No. | Spring Core related Annotations |
+|-----|---------------------------------|
+| 1   | @Configuration                  |
+| 2   | @Bean                           |
+| 3   | @Autowired                      |
+| 4   | @Qualifier                      |
+| 5   | @Lazy                           |
+| 6   | @Value                          |
+| 7   | @PropertySource                 |
+| 8   | @ConfigurationProperties        |
+| 9   | @Profile                        |
+| 10  | @Scope                          |
 
 ## [Spring Boot Best Practices For Developers - Java Techie](https://www.youtube.com/watch?v=NaEk2zAmDE8)
 | No. | Practices                                                                  |
