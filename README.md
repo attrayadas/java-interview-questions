@@ -3,7 +3,8 @@ A list of java interview questions. This repository is everything you need to pr
 
 ## Table of Contents
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
-* Java Collection Interview Questions & Answers
+* Java Collection Interview Questions & Answers - Java Techie
+* Spring Boot Interview Mastery Part 1 - Java Techie
 
 ## [Top 20+ Java 8 Interview Questions & Answers - Java Techie](https://www.youtube.com/watch?v=k7fNLXoVCYg&t)
 | No. | Questions                                                                                           |
@@ -49,4 +50,17 @@ A list of java interview questions. This repository is everything you need to pr
 | 15  | If key is null in HashMap then where that entry will store in map?                                                           |
 | 16  | Map enhancement in Java 8                                                                                                    |
 | 17  | How TreeMap internally works                                                                                                 |
-                                                                                  
+
+## [Spring Boot Interview Mastery Part 1 - Java Techie](https://www.youtube.com/watch?v=-_tPeb3VE6w)      
+| No. | Questions                                                                                                                                               |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Why will you choose Spring Boot over Spring Framework?                                                                                                  |
+| 2   | What all spring boot starter you have used or what all module you have worked on?                                                                       |
+| 3   | How will you run your Spring Boot application?                                                                                                          |
+| 4   | What is the purpose of the @SpringBootApplication annotation in a Spring Boot application?                                                              |
+| 5   | Can I directly use above 3 annotation in my main class, instead of using @SpringBootApplication annotation, if yes will my application work as expected |
+| 6   | What is Auto configuration in Spring Boot?                                                                                                              |
+| 7   | How can you disable a specific auto-configuration class in Spring Boot?                                                                                 |
+| 8   | How can you customize the default configuration in Spring Boot?                                                                                         |
+| 9   | How Spring boot run() method works internally?                                                                                                          |
+| 10  | What is Command line runner in Spring Boot?                                                                                                             |
