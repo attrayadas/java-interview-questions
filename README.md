@@ -2,9 +2,38 @@
 A list of java interview questions. This repository is everything you need to prepare for your technical interview.
 
 ## Table of Contents
+* Spring Boot Best Practices For Developers - Java Techie
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
 * Java Collection Interview Questions & Answers - Java Techie
 * Spring Boot Interview Mastery Part 1 - Java Techie
+
+## [Spring Boot Best Practices For Developers - Java Techie](https://www.youtube.com/watch?v=NaEk2zAmDE8)
+| No. | Practices                                                                  |
+|-----|----------------------------------------------------------------------------|
+| 1   | Proper packaging style                                                     |
+| 2   | Use Spring Boot starters                                                   |
+| 3   | Use proper versions of the dependencies                                    |
+| 4   | Use Lombok                                                                 |
+| 5   | Use Controllers only for routing                                           |
+| 6   | Use Services for business logic                                            |
+| 7   | Use constructor injection with Lombok                                      |
+| 8   | Use slf4j logging                                                          |
+| 9   | Use meaningful words for classes, methods, variables, and other attributes |
+| 10  | Bean validation                                                            |
+| 11  | Custom exception handling                                                  |
+| 12  | Use custom response object                                                 |
+| 13  | Use design pattern                                                         |
+| 14  | Use yml instead of properties                                              |
+| 15  | Encrypt or externalize sensitive information                               |
+| 16  | Write E2E Unit test with coverage                                          |
+| 17  | Avoid NullPointerException by using Optional                               |
+| 18  | Use best practices for the Collection framework                            |
+| 19  | Use caching                                                                |
+| 20  | Use Pagination                                                             |
+| 21  | Remove unnecessary codes, variables, methods                               |
+| 22  | Using comments                                                             |
+| 23  | Use a common code formatting style                                         |
+| 24  | Use Sonar Lint                                                             |
 
 ## [Top 20+ Java 8 Interview Questions & Answers - Java Techie](https://www.youtube.com/watch?v=k7fNLXoVCYg&t)
 | No. | Questions                                                                                           |
