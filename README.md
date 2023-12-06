@@ -1,7 +1,9 @@
 # java-interview-questions
+
 A list of java interview questions. This repository is everything you need to prepare for your technical interview.
 
 ## Table of Contents
+
 * 40+ Spring & Spring Boot Annotations Everyone Should Know - Java Techie
 * Spring Boot Best Practices For Developers - Java Techie
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
@@ -9,20 +11,60 @@ A list of java interview questions. This repository is everything you need to pr
 * Spring Boot Interview Mastery Part 1 - Java Techie
 
 ## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
-| No. | Spring Core related Annotations |
-|-----|---------------------------------|
-| 1   | @Configuration                  |
-| 2   | @Bean                           |
-| 3   | @Autowired                      |
-| 4   | @Qualifier                      |
-| 5   | @Lazy                           |
-| 6   | @Value                          |
-| 7   | @PropertySource                 |
-| 8   | @ConfigurationProperties        |
-| 9   | @Profile                        |
-| 10  | @Scope                          |
+
+| No. | Spring Boot Main annotations          |
+|-----|---------------------------------------|
+| 1   | @SpringBootApplication                |
+| 2   | @ComponentScan                        |
+| 3   | @EnableAutoConfiguration              |
+| 4   | @Configuration                        |
+
+| No. | Stereotype annotation                 |
+|-----|---------------------------------------|
+| 1   | @Component                            |
+| 2   | @Service                              |
+| 3   | @RestController/@Controller           |
+| 4   | @Repository                           |
+
+| No. | Spring Core related Annotations       |
+|-----|---------------------------------------|
+| 1   | @Configuration                        |
+| 2   | @Bean                                 |
+| 3   | @Autowired                            |
+| 4   | @Qualifier                            |
+| 5   | @Lazy                                 |
+| 6   | @Value                                |
+| 7   | @PropertySource                       |
+| 8   | @ConfigurationProperties              |
+| 9   | @Profile                              |
+| 10  | @Scope                                |
+
+| No. | REST API related Annotations          |
+|-----|---------------------------------------|
+| 1   | @RestController                       |
+| 2   | @RequestMapping                       |
+| 3   | @GetMapping                           |
+| 4   | @PostMapping                          |
+| 5   | @PutMapping                           |
+| 6   | @DeleteMapping                        |
+| 7   | @RequestBody                          |
+| 8   | @PathVariable                         |
+| 9   | @RequestParam                         |
+| 10  | @ControllerAdvice & @ExceptionHandler |
+
+| No. | Spring Data JPA related annotations   |
+|-----|---------------------------------------|
+| 1   | @Entity                               |
+| 2   | @Table                                |
+| 3   | @Column                               |
+| 4   | @Transactional                        |
+| 5   | @OnetoOne                             |
+| 6   | @OnetoMany                            |
+| 7   | @ManytoOne                            |
+| 8   | @ManytoMany                           |
 
 ## [Spring Boot Best Practices For Developers - Java Techie](https://www.youtube.com/watch?v=NaEk2zAmDE8)
+
 | No. | Practices                                                                  |
 |-----|----------------------------------------------------------------------------|
 | 1   | Proper packaging style                                                     |
@@ -51,6 +93,7 @@ A list of java interview questions. This repository is everything you need to pr
 | 24  | Use Sonar Lint                                                             |
 
 ## [Top 20+ Java 8 Interview Questions & Answers - Java Techie](https://www.youtube.com/watch?v=k7fNLXoVCYg&t)
+
 | No. | Questions                                                                                           |
 |-----|-----------------------------------------------------------------------------------------------------|
 | 1   | What are all the features of Java 8 did you use?                                                    |
@@ -75,6 +118,7 @@ A list of java interview questions. This repository is everything you need to pr
 | 20  | WAP to print even and odd using 2 threads                                                           |
 
 ## [Java Collection Interview Questions & Answers - Java Techie](https://www.youtube.com/watch?v=GO67C7V-IbQ)
+
 | No. | Questions                                                                                                                    |
 |-----|------------------------------------------------------------------------------------------------------------------------------|
 | 1   | What all collection you used in your project?                                                                                |
@@ -95,7 +139,8 @@ A list of java interview questions. This repository is everything you need to pr
 | 16  | Map enhancement in Java 8                                                                                                    |
 | 17  | How TreeMap internally works                                                                                                 |
 
-## [Spring Boot Interview Mastery Part 1 - Java Techie](https://www.youtube.com/watch?v=-_tPeb3VE6w)      
+## [Spring Boot Interview Mastery Part 1 - Java Techie](https://www.youtube.com/watch?v=-_tPeb3VE6w)
+
 | No. | Questions                                                                                                                                               |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | Why will you choose Spring Boot over Spring Framework?                                                                                                  |
