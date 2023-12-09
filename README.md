@@ -9,6 +9,7 @@ A list of java interview questions. This repository is everything you need to pr
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
 * Java Collection Interview Questions & Answers - Java Techie
 * Spring Boot Interview Mastery Part 1 - Java Techie
+* Spring Boot Interview Mastery Part 2 - Java Techie
 
 ## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
 
@@ -153,3 +154,21 @@ A list of java interview questions. This repository is everything you need to pr
 | 8   | How can you customize the default configuration in Spring Boot?                                                                                         |
 | 9   | How Spring boot run() method works internally?                                                                                                          |
 | 10  | What is Command line runner in Spring Boot?                                                                                                             |
+
+## [Spring Boot Interview Mastery Part 2 - Java Techie](https://www.youtube.com/watch?v=IdTdgTBXlFw)
+
+| No. | Questions                                                                                                                                               |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Can you explain the purpose of Stereotype annotations in the Spring Framework?                                                                          |
+| 2   | How can you define bean in spring framework?                                                                                                            |
+| 3   | What is dependency injection?                                                                                                                           |
+| 4   | How many ways we can perform dependency injection in spring or spring boot?                                                                             |
+| 5   | Where you would choose to use setter injection over constructor injection, and vice versa?                                                              |
+| 6   | Can you provide a real-world use case where @PostConstruct in particularly useful?                                                                      |
+| 7   | How can we dynamically load values in a Spring Boot application?                                                                                        |
+| 8   | Can you explain the key differences between YML and properties files, and in what scenarios you might prefer one format over the other?                 |
+| 9   | What is the difference between yml and YAML?                                                                                                            |
+| 10  | If I configure same values in both properties then which value will be load in spring boot OR who will load first properties or yml file?               |
+| 11  | How to load external properties in Spring Boot? -> spring.config.import                                                                                 |
+| 12  | How to map or bind config properties to java object?                                                                                                    |
+| 13  | If I configure same values in both properties then which value will be load in spring boot OR who will load first properties or yml file?               |
