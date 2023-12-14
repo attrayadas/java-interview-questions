@@ -10,6 +10,7 @@ A list of java interview questions. This repository is everything you need to pr
 * Java Collection Interview Questions & Answers - Java Techie
 * Spring Boot Interview Mastery Part 1 - Java Techie
 * Spring Boot Interview Mastery Part 2 - Java Techie
+* Spring Boot Interview Mastery Part 3 - Java Techie
 
 ## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
 
@@ -172,3 +173,16 @@ A list of java interview questions. This repository is everything you need to pr
 | 11  | How to load external properties in Spring Boot? -> spring.config.import                                                                                 |
 | 12  | How to map or bind config properties to java object?                                                                                                    |
 | 13  | If I configure same values in both properties then which value will be load in spring boot OR who will load first properties or yml file?               |
+
+## [Spring Boot Interview Mastery Part 3 - Java Techie](https://www.youtube.com/watch?v=XfScG87YSHQ)
+
+| No. | Questions                                                                                                                                  |
+|-----|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | How will you resolve bean dependency ambiguity?                                                                                            |
+| 2   | Can we avoid this dependency ambiguity without using @Qualifier?                                                                           |
+| 3   | What is bean scope and can you explain different type of bean scope?                                                                       |
+| 4   | How to define custom bean scope?                                                                                                           |
+| 5   | Can you provide a few real-time use cases for when to choose Singleton scope and Prototype scope?                                          |
+| 6   | Can we inject prototype bean in singleton bean? If yes what will happen if we inject prototype bean in singleton bean?                     |
+| 7   | What is the difference between spring singleton and plain singleton?                                                                       |
+| 8   | What is the purpose of the BeanPostProcessor interface in Spring, and how can you use it to customize bean initialization and destruction? |
