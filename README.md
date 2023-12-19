@@ -11,6 +11,7 @@ A list of java interview questions. This repository is everything you need to pr
 * Spring Boot Interview Mastery Part 1 - Java Techie
 * Spring Boot Interview Mastery Part 2 - Java Techie
 * Spring Boot Interview Mastery Part 3 - Java Techie
+* Spring Boot Interview Mastery Part 4 - Java Techie
 
 ## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
 
@@ -186,3 +187,25 @@ A list of java interview questions. This repository is everything you need to pr
 | 6   | Can we inject prototype bean in singleton bean? If yes what will happen if we inject prototype bean in singleton bean?                     |
 | 7   | What is the difference between spring singleton and plain singleton?                                                                       |
 | 8   | What is the purpose of the BeanPostProcessor interface in Spring, and how can you use it to customize bean initialization and destruction? |
+
+## [Spring Boot Interview Mastery Part 4 - Java Techie](https://www.youtube.com/watch?v=8lXV2S31pHU)
+
+| No. | Questions                                                                                                                                                                                                                                         |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Have you worked on Restful webservices? If yes, what all HTTP methods have you used in your project?                                                                                                                                              |
+| 2   | How can you specify the the HTTP method type for your REST endpoint?                                                                                                                                                                              |
+| 3   | Can you design a rest endpoint, assume that you have a Product database, and your task is to create an API to filter a list of products by productType.                                                                                           |
+| 4   | Design endpoints in a way that takes "productType" as input. If the user provides this input, the endpoint should filter products based on the specific condition. If "productType" is not provided, the endpoint should return all the products. |
+| 5   | What is the difference between @PathVariable and @RequestParam                                                                                                                                                                                    |
+| 6   | Why did you use @RestController and why not @Controller?                                                                                                                                                                                          |
+| 7   | How can we deserialize a JSON request payload into an object within a Spring MVC controller?                                                                                                                                                      |
+| 8   | Can we perform update operation in POST http method if yes then why do we need Put mapping or Put http method?                                                                                                                                    |
+| 9   | Can we pass Request Body in GET HTTP method?                                                                                                                                                                                                      |
+| 10  | How can we perform content negotiation(XML/JSON) in REST endpoint?                                                                                                                                                                                |
+| 11  | What all status code you have observed in your application?                                                                                                                                                                                       |
+| 12  | How can you customize the status code for your endpoint?                                                                                                                                                                                          |
+| 13  | How can you enable cross origin?                                                                                                                                                                                                                  |
+| 14  | How can you upload a file in spring?                                                                                                                                                                                                              |
+| 15  | How do you maintain versioning for your REST API?                                                                                                                                                                                                 |
+| 16  | How can you hide certain REST endpoints to prevent them from being exposed externally?                                                                                                                                                            |
+| 17  | How will you consume RESTFull API?                                                                                                                                                                                                                |
