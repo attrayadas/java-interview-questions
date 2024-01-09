@@ -4,6 +4,7 @@ A list of java interview questions. This repository is everything you need to pr
 
 ## Table of Contents
 
+* Frequently Asked Java Interview Q&A Tricky Questions - Java Techie
 * 40+ Spring & Spring Boot Annotations Everyone Should Know - Java Techie
 * Spring Boot Best Practices For Developers - Java Techie
 * Top 20+ Java 8 Interview Questions & Answers - Java Techie
@@ -12,6 +13,35 @@ A list of java interview questions. This repository is everything you need to pr
 * Spring Boot Interview Mastery Part 2 - Java Techie
 * Spring Boot Interview Mastery Part 3 - Java Techie
 * Spring Boot Interview Mastery Part 4 - Java Techie
+
+
+## [Frequently Asked Java Interview Q&A Tricky Questions - Java Techie](https://www.youtube.com/watch?v=fFnuer3AD8Q)
+
+| No. | Questions                                                                                   |
+|-----|---------------------------------------------------------------------------------------------|
+| 1   | What are the pillars of OOPs concept?                                                       |
+| 2   | Where did you use this concepts in your project?                                            |
+| 3   | Explain Exception hierarchy in Inheritance                                                  |
+| 4   | Parent Child override scenario                                                              |
+| 5   | Can we override static and private method?                                                  |
+| 6   | What is the difference of Java 7 and 8 interface?                                           |
+| 7   | What is final, finally and finalize?                                                        |
+| 8   | What is equals and hashcode method and its contract?                                        |
+| 9   | What is exception and its hierarchy?                                                        |
+| 10  | Why checked exception also called as compile time exception, is it occurs in compile time?  |
+| 11  | How to write custom exception?                                                              |
+| 12  | Throw and throws Exception                                                                  |
+| 13  | Exception tricky programming questions (Exception order)                                    |
+| 14  | try, catch, finally return statement scenario questions                                     |
+| 15  | Is finally block always executed?                                                           |
+| 16  | How many ways we can create String object?                                                  |
+| 17  | String object creation scenario                                                             |
+| 18  | What is SCP and how it works?                                                               |
+| 19  | Why String is immutable                                                                     |
+| 20  | How to use mutable class and what is the difference between StringBuffer and StringBuilder? |
+| 21  | How to make your own custom immutable class?                                                |
+| 22  | Which one is good to store password in Java String or char[] and why?                       |
+| 23  | What is Marker Interface (tagging interface)? Can we create our own marker interface        |
 
 ## [40+ Spring & Spring Boot Annotations Everyone Should Know](https://www.youtube.com/watch?v=htyq-mER0AE)
 
